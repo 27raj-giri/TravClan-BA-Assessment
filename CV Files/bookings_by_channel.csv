@@ -1,0 +1,4 @@
+"booking_channel","booking_count","cancellations","cancellation_rate","refunds","refund_rate","avg_booking_value","value_diff"
+"Web","15001","3419","22.79","11805","78.69","28190.84","3110.31"
+"Mobile App","12009","3898","32.46","9364","77.97","21351.29","-3729.24"
+"Travel Agent","2990","1011","33.81","2343","78.36","24453.97","-626.56"
